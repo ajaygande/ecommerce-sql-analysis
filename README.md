@@ -57,6 +57,3 @@ Screenshots of all SQL tasks and output results (taken from **MySQL Workbench**)
 
 ---
 
-## Note
-
-> This is a **beginner to intermediate-level project** designed to showcase SQL skills on real-world e-commerce-style data.
